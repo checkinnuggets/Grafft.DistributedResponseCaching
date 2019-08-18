@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grafft.DistributedResponseCaching", "Grafft.DistributedResponseCaching\Grafft.DistributedResponseCaching.csproj", "{0F55A23E-755B-40B2-A7D6-012CE16DBDD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grafft.DistributedResponseCaching.Tests", "Grafft.DistributedResponseCaching.Tests\Grafft.DistributedResponseCaching.Tests.csproj", "{D8F92501-9D7E-4523-B473-1F1976E95FA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F55A23E-755B-40B2-A7D6-012CE16DBDD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F55A23E-755B-40B2-A7D6-012CE16DBDD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F55A23E-755B-40B2-A7D6-012CE16DBDD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F55A23E-755B-40B2-A7D6-012CE16DBDD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8F92501-9D7E-4523-B473-1F1976E95FA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8F92501-9D7E-4523-B473-1F1976E95FA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8F92501-9D7E-4523-B473-1F1976E95FA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8F92501-9D7E-4523-B473-1F1976E95FA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A37D84CF-A16B-49CE-8FD1-64D5019E3120}
+	EndGlobalSection
+EndGlobal
